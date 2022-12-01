@@ -1,13 +1,98 @@
-{
-    "Serial": 1,
-    "product_name": "Yamaha R15 V4 ABS",
-    "seler_name": "Abdur Saurav",
-    "email": "saurav12@gmail.com",
-    "category": "sports",
-    "img": "https://deshibiker.com/wp-content/uploads/classified-listing/2022/11/20221119_102356-1080x600.jpg",
-    "original_price": "575000 tk",
-    "resale_price": "420000",
-    "use": "1 year",
-    "isverified": true,
-    "description": "Actually i want to buy a new bike for this reason i want to sell my his bike. This bike has no issues, it's totally in fresh condition."
-}
+[
+    {
+        "category": 1,
+        "categoryName": "Sports",
+        "product": [
+            {
+                "product_name": "Yamaha R15 V4 ABS",
+                "seler_name": "Abdur Saurav",
+                "email": "saurav12@gmail.com",
+                "img": "https://deshibiker.com/wp-content/uploads/classified-listing/2022/11/20221119_102356-1080x600.jpg",
+                "original_price": "575000 tk",
+                "resale_price": "420000 tk",
+                "use": "1 year",
+                "location": "Dhaka, Mirpur-2",
+                "phone": "01712345678",
+                "isverified": true,
+                "description": "Actually i want to buy a new bike for this reason i want to sell this bike. This bike has no issues, it's totally in fresh condition."
+            },
+            {
+                "product_name": "KTM RC 125 (European)",
+                "seler_name": "Anik Meya",
+                "email": "anik88@gmail.com",
+                "img": "https://www.bikebazar.co/Images/show_full_image/10800/%E0%A6%95%E0%A7%87%20%E0%A6%9F%E0%A6%BF%20%E0%A6%8F%E0%A6%AE%20RC%20125/%E0%A6%95%E0%A7%87%20%E0%A6%9F%E0%A6%BF%20%E0%A6%8F%E0%A6%AE%20RC%20125-1646403828471.jpg",
+                "original_price": "500000 tk",
+                "resale_price": "400000 tk",
+                "use": "2 year",
+                "location": "Kushtia, Mirpur",
+                "phone": "01712345678",
+                "isverified": true,
+                "description": "Actually i want to buy a new bike for this reason i want to sell this bike. This bike has no issues, it's totally in fresh condition."
+            }
+        ]
+    },
+    {
+        "category": 2,
+        "categoryName": "Scooty",
+        "product": [
+            {
+                "product_name": "TVS ZEST 110 CC",
+                "seler_name": "Tarikus Islam",
+                "email": "tarik4433@gmail.com",
+                "img": "https://www.puranbike.com/images/users/3952/1567968410_LRM_EXPORT_54519041827690_20190903_124004107.jpeg",
+                "original_price": "200000 tk",
+                "resale_price": "110000 tk",
+                "use": "2 year",
+                "location": "Dhaka, Gajipur",
+                "phone": "01712345678",
+                "isverified": true,
+                "description": "Actually i want to buy a new bike for this reason i want to sell my this bike. This bike has no issues, it's totally in fresh condition."
+            },
+            {
+                "product_name": "SUZUKI SCOOTY ACCESS 125",
+                "seler_name": "Lamia Karim",
+                "email": "lamia15@gmail.com",
+                "img": "https://www.puranbike.com/images/users/377/1520077272_28468282_1855441781132788_4771061105046847488_n.jpg",
+                "original_price": "220000 tk",
+                "resale_price": "150000 tk",
+                "use": "3 year",
+                "location": "Dhaka, Dhanmondi-5",
+                "phone": "01712345678",
+                "isverified": true,
+                "description": "Actually i want to buy a new bike for this reason i want to sell my this bike. This bike has no issues, it's totally in fresh condition."
+            }
+        ]
+    },
+    {
+        "category": 3,
+        "categoryName": "Off-road",
+        "product": [
+            {
+                "product_name": "Yamaha WR 155R",
+                "seler_name": "Rakib Ali",
+                "email": "rakib33@gmail.com",
+                "img": "https://gumtreeau-res.cloudinary.com/image/private/t_$_75/gumtree/c93e784a-da7f-4357-83c3-db143cac2545.jpg",
+                "original_price": "480000 tk",
+                "resale_price": "400000 tk",
+                "use": "8 Month",
+                "location": "Rangpur",
+                "phone": "01712345678",
+                "isverified": true,
+                "description": "Actually i want to buy a new bike for this reason i want to sell my this bike. This bike has no issues, it's totally in fresh condition."
+            },
+            {
+                "product_name": "Honda CRF 125",
+                "seler_name": "Alex Yeasin",
+                "email": "alex87@gmail.com",
+                "img": "https://motocrosshideout.com/wp-content/uploads/2020/12/Honda-CRF125F.jpg.webp",
+                "original_price": "500000 tk",
+                "resale_price": "400000 tk",
+                "use": "3 year",
+                "location": "Dhaka, Kushtia",
+                "phone": "01712345678",
+                "isverified": true,
+                "description": "Actually i want to buy a new bike for this reason i want to sell my this bike. This bike has no issues, it's totally in fresh condition."
+            }
+        ]
+    }
+]
