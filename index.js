@@ -26,6 +26,14 @@ async function run() {
             const oneCategoryOptions = await categoryCollections.findOne(query);
             res.send(oneCategoryOptions);
         });
+
+        app.get('/booking', async (req, res) => {
+            const email = req.query.email;
+            const query = { buyerEmail: email };
+            const booking = await bookingCollections.find(query).toArray();
+            res.send(booking);
+        });
+
         app.post('/booking', async (req, res) => {
             const booking = req.body
             console.log(booking);
