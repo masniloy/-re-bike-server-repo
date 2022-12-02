@@ -26,6 +26,14 @@ async function run() {
             const oneCategoryOptions = await categoryCollections.findOne(query);
             res.send(oneCategoryOptions);
         });
+        app.post('/booking', async (req, res) => {
+            const booking = req.body
+            console.log(booking);
+            const result = await bookingCollections.insertOne(booking);
+            res.send(result);
+        });
+
+
 
     }
     finally {
